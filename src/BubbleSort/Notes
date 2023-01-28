@@ -1,0 +1,6 @@
+
+Time Complexity : O(n^2)
+
+Memory Usage :  O(1)  --> 1 tane temp değişken kullanıyor.
+
+Trick : elimde küçük bir dizi varsa  iyi , ama büyük bir dizi varsa yavaş kalıyor..

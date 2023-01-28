@@ -1,0 +1,12 @@
+    İlk elemandan son elemana kadar her elemanı kendinden sonra gelen,
+kendinden küçük elemanların en küçüğü ile yer değiştiriyoruz.
+
+ { 1, 2, 3, 10, 6, 4, 7 }
+ { 1, 2, 3, 4, 6, 4, 7 }   -- > temp = 10
+ { 1, 2, 3, 4, 6, 10, 7}
+ { 1, 2, 3, 4, 6, 7, 7} -->  temp = 10
+ { 1, 2, 3, 4, 6, 7, 10}
+
+
+ Time Complexity -- > O(n^2)
+ Memory USage   --- > O(1)
