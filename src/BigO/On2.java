@@ -10,8 +10,8 @@ public class On2 {   // O(n^2)  --- > Quadratic Complexity
                 System.out.println(arr[i]+arr[j]);
                 count++;
             }
-
         }
+
         System.out.println("count : " + count );
 
     }
